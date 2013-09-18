@@ -1,0 +1,2 @@
+Uses ebay api to return a random item on ebay selling for a dollar or less.
+Returns buy it now auctions and makes sure shipping is free.
